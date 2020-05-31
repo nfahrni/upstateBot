@@ -11,7 +11,7 @@ Executes script all 10 minutes
 
 # Create a Telegram bot
 
-search `@BotFather`
+search `@BotFather` in your favourite telegram client
 
 write commands as chat message
 
