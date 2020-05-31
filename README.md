@@ -23,7 +23,7 @@ this will provide you a token. enter the bot chatroom and hit start to receive m
 
 You can get the chatroom id by open the following url in the browser after sending a message to the bot first
 
-https://api.telegram.org/bot<token>/getUpdates (replace <token> with your generated token)
+https://api.telegram.org/bot(token)/getUpdates (replace (token) with your generated token)
   
 the id is under chat => id
 
